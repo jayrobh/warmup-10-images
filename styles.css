@@ -1,0 +1,18 @@
+
+
+.site-header{
+    background-color: antiquewhite;
+}
+.main{
+    background-color: aliceblue;
+    width: 600px;
+    margin: auto;
+}
+.site-footer{
+    background-color: antiquewhite;
+}
+.hero-image{
+    width: 100%;
+    max-width: 300px;
+    height:auto;
+}
